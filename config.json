@@ -1,0 +1,11 @@
+{
+  "monitoreo": {
+    "paths": [
+     "C:\\temp\\porClasificar"
+    ],
+    "extensiones": [
+     "txt" , "sql"
+    ]
+  },
+  "path_clasificados": "C:\\temp\\porClasificar"
+}
